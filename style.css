@@ -167,14 +167,13 @@ nav {
   margin: 2rem;
   font-family: "Cabin Condensed", sans-serif;
 }
-.right{
+.right {
   /* display:flex; */
-  margin-right:50vh;
+  margin-right: 70vh;
 }
-#logo{
+#logo {
   /* display: flex; */
-  margin-right:100px;
-
+  margin-right: 100px;
 }
 .right-sec h1 {
   font-size: 3.2rem;
@@ -238,17 +237,15 @@ nav {
   margin-top: 30px;
   margin-right: 10px;
 }
-.left-sec img{
+.left-sec img {
   box-shadow: 10px 10px 5px #ffa600;
   /* -moz-box-shadow: 10px 10px 5px #ffa600; */
   /* -webkit-box-shadow: 10px 10px 5px #ffa600; */
   /* -khtml-box-shadow: 10px 10px 5px #ffa600; */
-  
 }
-.left-sec img:hover{
+.left-sec img:hover {
   will-change: transform;
 }
-
 
 .right-sec {
   margin-left: 10px;
